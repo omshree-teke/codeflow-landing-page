@@ -20,9 +20,6 @@ A modern, responsive AI-powered developer platform landing page built with React
 
 ## 🚀 Getting Started
 
-To get a local copy up and running, follow these simple steps:
-
-1. **Install and Run**
    ```bash
    npm install
    npm run dev
