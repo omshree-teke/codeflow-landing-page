@@ -2,7 +2,6 @@
 
 A modern, responsive AI-powered developer platform landing page built with React and Tailwind CSS.
 
-
 ## 🛠️ Tech Stack
 
 * ⚛️ **React** — Component-based UI
@@ -19,11 +18,11 @@ A modern, responsive AI-powered developer platform landing page built with React
 * 💬 **Testimonials** — Social proof with a clean card layout.
 * 📱 **Responsive Design** — Fully optimized for mobile, tablet, and desktop.
 
-
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
-1. **Install dependencies**
+1. **Install and Run**
    ```bash
    npm install
+   npm run dev
